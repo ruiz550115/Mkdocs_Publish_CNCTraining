@@ -1,0 +1,13 @@
+site_name: CNC Training 
+theme: 
+  name: material 
+  font:
+    text: Malgun Gothic
+    code: Cascadia Mono
+plugins:
+    - mkdocs-video  
+nav:
+  - Home: index.md
+  - Module 1: Module1.md
+  - Module 2: Module2.md
+  - Contact: contact.md 
