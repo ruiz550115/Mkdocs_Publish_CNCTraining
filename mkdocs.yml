@@ -6,8 +6,22 @@ theme:
     code: Cascadia Mono
 plugins:
     - mkdocs-video  
+
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true # Renders beautiful icons instead of standard HTML checkboxes
+      clickable_checkbox: true
+
+
 nav:
-  - Home: index.md
-  - Module 1: Module1.md
-  - Module 2: Module2.md
-  - Contact: contact.md 
+  - Agenda: index.md
+  - TwinCAT 3 Overview : TC_QuickStart.md
+  - System Maintenance: Maintenance.md
+  - Servo_AX5000 : Servo_AX5.md
+  - TwinCAT CNC: TC_CNC.md
+  - EtherCAT Diagnosis: EtherCATDiag.md
+  - CNC Diagnosis : CNC_Diag.md
+  - CNC_Distance Control : DistCtrl.md
+  - Tuning : Tuning.md
+  - QA : QA.md
+  - Contact: Contact.md 

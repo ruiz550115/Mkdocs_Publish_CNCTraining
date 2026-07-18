@@ -2,16 +2,64 @@
 
 This document is used for CNC Training for BOS innovations and GFX
 
-## Commands
+<img src="../images/Beckhoff.webp" width="800">
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<img src="../images/BOS.png" width="800">
 
-## Project layout
+<img src="../images/GFX.png" width="800">
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+# AGENDA: 
+
+## TwinCAT 3 Overview
+
+* TwinCAT Introduction 
+* TwinCAT Quick Start
+
+
+## System Maintenance
+
+* Upload Project 
+* BST
+
+## Servo Drive - AX5000
+
+* AX5000 Introduction 
+* Drive Manager 2
+* AX5000 Diagnostic
+
+
+
+## TwinCAT CNC 
+
+* CNC introduction
+* CNC Quick Start
+* CNC Standard HMI
+* CNC Configuration list
+* HLI
+* Scopeview
+* CNC Message
+
+
+## EtherCAT Diagnosis
+
+
+
+## CNC Diagnosis
+
+
+
+## CNC - Distance Control
+
+
+
+## Servo Drive - Tuning
+
+
+
+## QA 
+
+
+
+## Contact
+

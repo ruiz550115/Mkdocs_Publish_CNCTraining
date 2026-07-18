@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# CONTACT
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Please feel free to contact me if you have any questions.
 
-## Commands
+## Contact Info
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<img src="../images/rui.jpg" width="100">
 
-## Project layout
+* Rui Zhang, P.Eng.
+Application Engineer & Drive Technology Products Specialist 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* BECKHOFF Automation Ltd. 
+4 Schiedel Court, Unit 1-3
+Cambridge, ON N3C 0H1 Canada 
+
+* Mobile: +1 416 527-1077 
+* Email: r.zhang@beckhoff.com
+* Web: www.beckhoff.ca   |   Contact Beckhoff Canada
+* Support Canada: support@beckhoff.ca 
+
+
+
+
