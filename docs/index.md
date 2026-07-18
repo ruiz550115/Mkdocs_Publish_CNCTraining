@@ -2,9 +2,10 @@
 
 This document is used for CNC Training for BOS innovations and GFX
 
+
 <img src="../images/Beckhoff.webp" width="800">
 
-<img src="../images/BOS.png" width="800">
+<img src="../images/BOS.png" width="800">   
 
 <img src="../images/GFX.png" width="800">
 

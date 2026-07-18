@@ -4,6 +4,8 @@ theme:
   font:
     text: Malgun Gothic
     code: Cascadia Mono
+  palette:
+    scheme: slate
 plugins:
     - mkdocs-video  
 
